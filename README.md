@@ -7,7 +7,7 @@
    - Fork this repository
    - Edit *your* copy of the `README.me` (check out my entry as "@emmet0r" as an example)
    - Click the "Pull Requests" tab and create a new pull request, to ask a maintainer to merge your changes into our shared README file
-5. Use [this magic link]([https://gh.io/ucsc-hacktoberfest-24](https://education.github.com/discount_requests/application?utm_source=2024-10-09-UCSC-HACKTOBERFEST)) to enroll in GitHub's student developer benefits (this link will fast-track your application)
+5. Use [this magic link](https://education.github.com/discount_requests/application?utm_source=2024-10-09-UCSC-HACKTOBERFEST) to enroll in GitHub's student developer benefits (this link will fast-track your application)
 6. [Register for Hacktoberfest](https://hacktoberfest.com/register/)
 7. [Explore potential projects to contribute to!](https://github.com/topics/hacktoberfest) 💖
 
