@@ -3,7 +3,7 @@
 ### TODO
 1. [Register](https://events.mlh.io/events/11767-hacktoberfest-ucsc) for (and check-in for) this event through Major League Hacking
 2. Create a [GitHub](http://www.github.com) account, if you don't already have one
-3. Add yourself to the roll call list below :)
+3. Add yourself to the roll call list below :) We'll use this list to draw raffle winners at the end of the event. (You must be present to win.) _If you try but aren't able to get a PR merged, let us know and we'll make sure you're still entered into the raffle!_
    - Fork this repository
    - Edit *your* copy of the `README.me` (check out my entry as "@emmet0r" as an example)
    - Click the "Pull Requests" tab and create a new pull request, to ask a maintainer to merge your changes into our shared README file
