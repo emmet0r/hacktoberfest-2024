@@ -4,9 +4,9 @@
 1. [Register](https://events.mlh.io/events/11767-hacktoberfest-ucsc) for (and check-in for) this event through Major League Hacking
 2. Create a [GitHub](http://www.github.com) account, if you don't already have one
 3. Add yourself to the roll call list below :)
-  - Fork this repository
-  - Edit *your* copy of the `README.me` (check out my entry as "@emmet0r" as an example)
-  - Click the "Pull Requests" tab and create a new pull request, to ask a maintainer to merge your changes into our shared README file
+   - Fork this repository
+   - Edit *your* copy of the `README.me` (check out my entry as "@emmet0r" as an example)
+   - Click the "Pull Requests" tab and create a new pull request, to ask a maintainer to merge your changes into our shared README file
 5. Use [this magic link](https://gh.io/ucsc-hacktoberfest-24) to enroll in GitHub's student developer benefits (this link will fast-track your application)
 6. [Register for Hacktoberfest](https://hacktoberfest.com/register/)
 7. [Explore potential projects to contribute to!](https://github.com/topics/hacktoberfest) 💖
