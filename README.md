@@ -1,7 +1,7 @@
 # Hacktoberfest @ UCSC! 👻
 
 ### TODO
-1. [Register](https://events.mlh.io/events/11767-hacktoberfest-ucsc) for (and check-in for) the event through Major League Hacking
+1. [Register](https://events.mlh.io/events/11767-hacktoberfest-ucsc) for (and check-in for) this event through Major League Hacking
 2. Create a [GitHub](http://www.github.com) account, if you don't already have one
 3. Add yourself to the roll call list below :)
 4. Use the link provided through MLH to enroll in GitHub's student developer benefits (Codespaces, Copilot, and more)
