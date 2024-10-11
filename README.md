@@ -48,6 +48,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@teahibiscus](https://github.com/teahibiscus) :D
 - [@smrghsh](https://github.com/smrghsh) 🐒
 - [@suaviloquence](https://github.com/suaviloquence)
+- [@lavilio](https://github.com/lavilio)
 - [@cheryl-chuang](https://github.com/cheryl-chuang)
 - [@aheliban](https://github.com/aheliban)
 - [@zeakJZ](https://github.com/zeakJZ)
@@ -65,7 +66,6 @@ _Add your GitHub handle, and link it to your profile!_
 - [@mariannejchuang](https://github.com/mariannejchuang)
 - [@rospul11](https://github.com/rospul11)
 - [@avysinger](https://github.com/avysinger)
-  
 ### Useful Links
 
 - [Open Source Basics [Video]](https://www.youtube.com/watch?v=upxUAI-fAtE)
