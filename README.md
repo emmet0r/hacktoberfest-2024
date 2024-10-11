@@ -13,7 +13,7 @@
 
 ### Roll call! Who's here?
 _Add your GitHub handle, and link it to your profile!_
-- [@emmet0r](https://github.com/emmet0r) ⚡
+- [@sindhuraappiah](https://github.com/sindhuraappiah) ⚡
 
 ### Useful Links
 - [Open Source Basics [Video]](https://www.youtube.com/watch?v=upxUAI-fAtE)
