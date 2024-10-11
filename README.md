@@ -14,6 +14,7 @@
 ### Roll call! Who's here?
 _Add your GitHub handle, and link it to your profile!_
 - [@emmet0r](https://github.com/emmet0r) ⚡
+- [@kitroseink](https://github.com/kitroseink)
 
 ### Useful Links
 - [Open Source Basics [Video]](https://www.youtube.com/watch?v=upxUAI-fAtE)
