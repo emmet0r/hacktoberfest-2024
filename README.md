@@ -59,7 +59,8 @@ _Add your GitHub handle, and link it to your profile!_
 - [@korbexmachina](https://github.com/korbexmachina)
 - [@citai](https://github.com/citai)
 - [@SchrodingerWaves](https://github.com/SchrodingerWaves)
-
+- [@rospul11](https://github.com/rospul11)
+  
 ### Useful Links
 
 - [Open Source Basics [Video]](https://www.youtube.com/watch?v=upxUAI-fAtE)
