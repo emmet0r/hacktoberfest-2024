@@ -45,12 +45,16 @@ _Add your GitHub handle, and link it to your profile!_
 - [@teahibiscus](https://github.com/teahibiscus) :D
 - [@smrghsh](https://github.com/smrghsh) 🐒
 - [@suaviloquence](https://github.com/suaviloquence)
+- [melissacif5] (https://github.com/melissacif5)
+- [@jasminetai](https://github.com/jasminetai)
 - [@andmorales12](https://github.com/andmorales12)
 - [@syergash](https://github.com/syergash)
 - [@sarahwxie](https://github.com/sarahwxie)
 - [@revaga](https://github.com/revaga)
 - [@shubhanshi1125](https://github.com/shubhanshi1125)
 - [@korbexmachina](https://github.com/korbexmachina)
+- [@citai](https://github.com/citai)
+- [@SchrodingerWaves](https://github.com/SchrodingerWaves)
 
 ### Useful Links
 
