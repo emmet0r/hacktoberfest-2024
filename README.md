@@ -16,13 +16,16 @@
 
 _Add your GitHub handle, and link it to your profile!_
 
-
+- [@Swasti-Srivastava](https://github.com/Swasti-Srivastava) ⚡
 - [joeyhuangg](https://github.com/joeyhuangg)
 - [@emmet0r](https://github.com/emmet0r) ⚡
+- [@Mruthula05](https://github.com/Mruthula05)
+- [@kitroseink](https://github.com/kitroseink)
 - [@alexisescuadro](https://github.com/alexisescuadro) 🌺
 - [@isschrack](https://github.com/isschrack) ⚡
 - [@lucyqgong](https://github.com/lucyqgong) 🔥
 - [@emmet0r](https://github.com/emmet0r) ⚡
+- [@jolenewei] (https://github.com/jolenewei) 
 - [@sskolach](https://github.com/sskolach)
 - [@djhawar](https://github.com/dishitaj)
 - @ssiguachi](https://github.com/ssiguachi) 💕
@@ -42,12 +45,19 @@ _Add your GitHub handle, and link it to your profile!_
 - [@teahibiscus](https://github.com/teahibiscus) :D
 - [@smrghsh](https://github.com/smrghsh) 🐒
 - [@suaviloquence](https://github.com/suaviloquence)
+- [melissacif5] (https://github.com/melissacif5)
+- [@jasminetai](https://github.com/jasminetai)
+- [@andmorales12](https://github.com/andmorales12)
+- [@syergash](https://github.com/syergash)
+- [@sarahwxie](https://github.com/sarahwxie)
 - [@revaga](https://github.com/revaga)
 - [@shubhanshi1125](https://github.com/shubhanshi1125)
 - [@korbexmachina](https://github.com/korbexmachina)
 - [@citai](https://github.com/citai)
+- [@SchrodingerWaves](https://github.com/SchrodingerWaves)
 
 ### Useful Links
+
 - [Open Source Basics [Video]](https://www.youtube.com/watch?v=upxUAI-fAtE)
 - [GitHub-flavored Markdown Reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [UC Santa Cruz Open Source Program Office](https://ucsc-ospo.github.io)
