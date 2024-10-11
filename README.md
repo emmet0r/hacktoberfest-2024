@@ -20,7 +20,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@sindhuraappiah](https://github.com/sindhuraappiah) ⚡
 - [@luciiolee](https://github.com/luciiolee)
 - [@Swasti-Srivastava](https://github.com/Swasti-Srivastava) ⚡
-- [joeyhuangg](https://github.com/joeyhuangg)
+- [@joeyhuangg](https://github.com/joeyhuangg)
 - [@emmet0r](https://github.com/emmet0r) ⚡
 - [@Mruthula05](https://github.com/Mruthula05)
 - [@kitroseink](https://github.com/kitroseink)
@@ -75,11 +75,11 @@ _Add your GitHub handle, and link it to your profile!_
 - [@mariannejchuang](https://github.com/mariannejchuang)
 - [@rospul11](https://github.com/rospul11)
 - [@avysinger](https://github.com/avysinger)
-- [@Rajanbir16]
+- [@Rajanbir16](https://github.com/Rajanbir16)
 
 ### Useful Links
 
-- [Open Source Basics [Video]](https://www.youtube.com/watch?v=upxUAI-fAtE)
+- [Open Source Basics [🍪 Video]](https://www.youtube.com/watch?v=upxUAI-fAtE)
 - [GitHub-flavored Markdown Reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [UC Santa Cruz Open Source Program Office](https://ucsc-ospo.github.io)
 - [UCSC Girls Who Code](https://ucsc-gwc.club/)
