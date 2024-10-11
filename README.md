@@ -15,10 +15,13 @@
 _Add your GitHub handle, and link it to your profile!_
 - [@emmet0r](https://github.com/emmet0r) ⚡
 - [@teahibiscus](https://github.com/teahibiscus) :D
+- [@smrghsh](https://github.com/smrghsh) 🐒
+- [@suaviloquence](https://github.com/suaviloquence)
 
 ### Useful Links
 - [Open Source Basics [Video]](https://www.youtube.com/watch?v=upxUAI-fAtE)
 - [GitHub-flavored Markdown Reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [UC Santa Cruz Open Source Program Office](https://ucsc-ospo.github.io)
 - [UCSC Girls Who Code](https://ucsc-gwc.club/)
+- [Creative Code Collective](https://creativecodecollective.github.io/) - UCSC students sign up for the list for anmouncements here [Sign up!](https://forms.gle/VuKfbhHroVDbP4HL6)
 - [Emily on LinkedIn!](https://www.linkedin.com/in/emilymarielovell/)
