@@ -62,6 +62,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@citai](https://github.com/citai)
 - [@SchrodingerWaves](https://github.com/SchrodingerWaves)
 - [@rospul11](https://github.com/rospul11)
+- [@avysinger](https://github.com/avysinger)
   
 ### Useful Links
 
