@@ -15,7 +15,7 @@
 ### Roll call! Who's here?
 
 _Add your GitHub handle, and link it to your profile!_
-
+- [@sindhuraappiah](https://github.com/sindhuraappiah) ⚡
 - [@Swasti-Srivastava](https://github.com/Swasti-Srivastava) ⚡
 - [joeyhuangg](https://github.com/joeyhuangg)
 - [@emmet0r](https://github.com/emmet0r) ⚡
