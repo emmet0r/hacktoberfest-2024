@@ -20,6 +20,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@lucyqgong](https://github.com/lucyqgong) 🔥
 - [@emmet0r](https://github.com/emmet0r) ⚡
 - [@djhawar](https://github.com/dishitaj)
+- @ssiguachi](https://github.com/ssiguachi) 💕
 - [@ireed3282](https://github.com/ireed3282) 
 - [@ironspidr](https://github.com/Ironspidr/) 
 - [@Asterix522](https://github.com/Asterix522) 💃
