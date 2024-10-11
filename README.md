@@ -61,6 +61,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@korbexmachina](https://github.com/korbexmachina)
 - [@citai](https://github.com/citai)
 - [@SchrodingerWaves](https://github.com/SchrodingerWaves)
+- [@mariannejchuang](https://github.com/mariannejchuang)
 
 ### Useful Links
 
