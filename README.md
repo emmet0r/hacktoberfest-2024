@@ -15,6 +15,7 @@
 _Add your GitHub handle, and link it to your profile!_
 - [@emmet0r](https://github.com/emmet0r) ⚡
 - [@suaviloquence](https://github.com/suaviloquence)
+- [@flabbyflob](https://github.com/flabbyflob)
 
 ### Useful Links
 - [Open Source Basics [Video]](https://www.youtube.com/watch?v=upxUAI-fAtE)
