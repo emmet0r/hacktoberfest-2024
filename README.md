@@ -74,6 +74,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@mariannejchuang](https://github.com/mariannejchuang)
 - [@rospul11](https://github.com/rospul11)
 - [@avysinger](https://github.com/avysinger)
+- [@Rajanbir16]
 
 ### Useful Links
 
