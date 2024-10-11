@@ -34,6 +34,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@teahibiscus](https://github.com/teahibiscus) :D
 - [@smrghsh](https://github.com/smrghsh) 🐒
 - [@suaviloquence](https://github.com/suaviloquence)
+- [@shubhanshi1125](https://github.com/shubhanshi1125)
 - [@korbexmachina](https://github.com/korbexmachina)
 
 ### Useful Links
