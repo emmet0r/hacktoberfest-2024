@@ -25,10 +25,13 @@ _Add your GitHub handle, and link it to your profile!_
 - [@isschrack](https://github.com/isschrack) ⚡
 - [@lucyqgong](https://github.com/lucyqgong) 🔥
 - [@emmet0r](https://github.com/emmet0r) ⚡
+- [@psharm40](https://github.com/psharm40)
+- [@baccataco](https://github.com/baccataco) 😾
+- [@ssiguachi](https://github.com/ssiguachi)
 - [@jolenewei] (https://github.com/jolenewei) 
 - [@sskolach](https://github.com/sskolach)
 - [@djhawar](https://github.com/dishitaj)
-- @ssiguachi](https://github.com/ssiguachi) 💕
+- [@ssiguachi](https://github.com/ssiguachi) 💕
 - [@ireed3282](https://github.com/ireed3282) 
 - [@ironspidr](https://github.com/Ironspidr/) 
 - [@Asterix522](https://github.com/Asterix522) 💃
@@ -46,6 +49,9 @@ _Add your GitHub handle, and link it to your profile!_
 - [@smrghsh](https://github.com/smrghsh) 🐒
 - [@suaviloquence](https://github.com/suaviloquence)
 - [@aheliban](https://github.com/aheliban)
+- [@zeakJZ](https://github.com/zeakJZ)
+- [@pkflash](https://github.com/pkflash) ( ͡° ͜ʖ ͡°)
+- [melissacif5](https://github.com/melissacif5)
 - [@jasminetai](https://github.com/jasminetai)
 - [@andmorales12](https://github.com/andmorales12)
 - [@syergash](https://github.com/syergash)
@@ -53,6 +59,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@revaga](https://github.com/revaga)
 - [@shubhanshi1125](https://github.com/shubhanshi1125)
 - [@korbexmachina](https://github.com/korbexmachina)
+- [@citai](https://github.com/citai)
 - [@SchrodingerWaves](https://github.com/SchrodingerWaves)
 
 ### Useful Links
