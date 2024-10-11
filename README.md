@@ -13,9 +13,12 @@
 
 ### Roll call! Who's here?
 _Add your GitHub handle, and link it to your profile!_
+
+- [@alexisescuadro](https://github.com/alexisescuadro) 🌺
 - [@isschrack](https://github.com/isschrack) ⚡
 - [@lucyqgong](https://github.com/lucyqgong) 🔥
 - [@emmet0r](https://github.com/emmet0r) ⚡
+- @ssiguachi](https://github.com/ssiguachi) 💕
 - [@ireed3282](https://github.com/ireed3282) 
 - [@ironspidr](https://github.com/Ironspidr/) 
 - [@Asterix522](https://github.com/Asterix522) 💃
@@ -32,6 +35,8 @@ _Add your GitHub handle, and link it to your profile!_
 - [@teahibiscus](https://github.com/teahibiscus) :D
 - [@smrghsh](https://github.com/smrghsh) 🐒
 - [@suaviloquence](https://github.com/suaviloquence)
+- [@revaga](https://github.com/revaga)
+- [@shubhanshi1125](https://github.com/shubhanshi1125)
 - [@korbexmachina](https://github.com/korbexmachina)
 - [@SchrodingerWaves](https://github.com/SchrodingerWaves)
 
