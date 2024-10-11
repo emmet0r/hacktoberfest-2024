@@ -29,7 +29,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@jolenewei] (https://github.com/jolenewei) 
 - [@sskolach](https://github.com/sskolach)
 - [@djhawar](https://github.com/dishitaj)
-- @ssiguachi](https://github.com/ssiguachi) 💕
+- [@ssiguachi](https://github.com/ssiguachi) 💕
 - [@ireed3282](https://github.com/ireed3282) 
 - [@ironspidr](https://github.com/Ironspidr/) 
 - [@Asterix522](https://github.com/Asterix522) 💃
