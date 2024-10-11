@@ -25,6 +25,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@isschrack](https://github.com/isschrack) ⚡
 - [@lucyqgong](https://github.com/lucyqgong) 🔥
 - [@emmet0r](https://github.com/emmet0r) ⚡
+- [@psharm40](https://github.com/psharm40)
 - [@baccataco](https://github.com/baccataco) 😾
 - [@ssiguachi](https://github.com/ssiguachi)
 - [@jolenewei] (https://github.com/jolenewei) 
