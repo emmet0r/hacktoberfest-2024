@@ -13,6 +13,8 @@
 
 ### Roll call! Who's here?
 _Add your GitHub handle, and link it to your profile!_
+
+- [@alexisescuadro](https://github.com/alexisescuadro) 🌺
 - [@isschrack](https://github.com/isschrack) ⚡
 - [@lucyqgong](https://github.com/lucyqgong) 🔥
 - [@emmet0r](https://github.com/emmet0r) ⚡
