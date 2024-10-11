@@ -13,6 +13,7 @@
 
 ### Roll call! Who's here?
 _Add your GitHub handle, and link it to your profile!_
+- [@lucyqgong](https://github.com/lucyqgong) 🔥
 - [@emmet0r](https://github.com/emmet0r) ⚡
 - [@GirishAdithi](https://github.com/GirishAdithi) 
 - [@christngu](https://github.com/christngu)
@@ -33,3 +34,5 @@ _Add your GitHub handle, and link it to your profile!_
 - [UCSC Girls Who Code](https://ucsc-gwc.club/)
 - [Creative Code Collective](https://creativecodecollective.github.io/) - UCSC students sign up for the list for anmouncements here [Sign up!](https://forms.gle/VuKfbhHroVDbP4HL6)
 - [Emily on LinkedIn!](https://www.linkedin.com/in/emilymarielovell/)
+
+
