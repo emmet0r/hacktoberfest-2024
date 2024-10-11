@@ -16,7 +16,7 @@
 
 _Add your GitHub handle, and link it to your profile!_
 
-
+- [@Swasti-Srivastava](https://github.com/Swasti-Srivastava) ⚡
 - [joeyhuangg](https://github.com/joeyhuangg)
 - [@emmet0r](https://github.com/emmet0r) ⚡
 - [@Mruthula05](https://github.com/Mruthula05)
@@ -51,6 +51,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@korbexmachina](https://github.com/korbexmachina)
 
 ### Useful Links
+
 - [Open Source Basics [Video]](https://www.youtube.com/watch?v=upxUAI-fAtE)
 - [GitHub-flavored Markdown Reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [UC Santa Cruz Open Source Program Office](https://ucsc-ospo.github.io)
