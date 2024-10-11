@@ -20,3 +20,4 @@ _Add your GitHub handle, and link it to your profile!_
 - [GitHub-flavored Markdown Reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [UC Santa Cruz Open Source Program Office](https://ucsc-ospo.github.io)
 - [UCSC Girls Who Code](https://ucsc-gwc.club/)
+- [Emily on LinkedIn!](https://www.linkedin.com/in/emilymarielovell/)
