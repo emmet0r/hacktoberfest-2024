@@ -48,6 +48,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@teahibiscus](https://github.com/teahibiscus) :D
 - [@smrghsh](https://github.com/smrghsh) 🐒
 - [@suaviloquence](https://github.com/suaviloquence)
+- [@zeakJZ](https://github.com/zeakJZ)
 - [@pkflash](https://github.com/pkflash) ( ͡° ͜ʖ ͡°)
 - [melissacif5] (https://github.com/melissacif5)
 - [@jasminetai](https://github.com/jasminetai)
