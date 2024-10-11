@@ -15,6 +15,7 @@
 _Add your GitHub handle, and link it to your profile!_
 - [@emmet0r](https://github.com/emmet0r) ⚡
 - [@christngu](https://github.com/christngu)
+- [@AnikaAchary](https://github.com/AnikaAchary)
 - [@weluvgoatz](https://github.com/weluvgoatz)
 - [@r-oli-m](https://github.com/r-oli-m)🐷
 - [@aanvi145](https://github.com/aanvi145)
