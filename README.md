@@ -13,7 +13,7 @@
 
 ### Roll call! Who's here?
 _Add your GitHub handle, and link it to your profile!_
-- [@lucyqgong]((https://github.com/lucyqgong)) 🔥
+- [@lucyqgong](https://github.com/lucyqgong) 🔥
 - [@emmet0r](https://github.com/emmet0r) ⚡
 
 ### Useful Links
