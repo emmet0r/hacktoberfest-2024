@@ -15,6 +15,8 @@
 ### Roll call! Who's here?
 
 _Add your GitHub handle, and link it to your profile!_
+
+- [@yunwei37](https://github.com/yunwei37) ⚡
 - [@sindhuraappiah](https://github.com/sindhuraappiah) ⚡
 - [@luciiolee](https://github.com/luciiolee)
 - [@Swasti-Srivastava](https://github.com/Swasti-Srivastava) ⚡
@@ -79,5 +81,6 @@ _Add your GitHub handle, and link it to your profile!_
 - [UCSC Girls Who Code](https://ucsc-gwc.club/)
 - [Creative Code Collective](https://creativecodecollective.github.io/) - UCSC students sign up for the list for anmouncements here [Sign up!](https://forms.gle/VuKfbhHroVDbP4HL6)
 - [Emily on LinkedIn!](https://www.linkedin.com/in/emilymarielovell/)
+- [eunomia-bpf](https://github.com/eunomia-bpf) community and the [google slides](https://docs.google.com/presentation/d/1nu_o0RCUW4O66yABxCR38z52RTjmqI9XRf4kHzLpZmg/edit?usp=sharing)
 
 
