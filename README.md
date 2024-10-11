@@ -14,6 +14,7 @@
 ### Roll call! Who's here?
 _Add your GitHub handle, and link it to your profile!_
 - [@emmet0r](https://github.com/emmet0r) ⚡
+- @ssiguachi](https://github.com/ssiguachi) 💕
 - [@weluvgoatz](https://github.com/weluvgoatz)
 - [@r-oli-m](https://github.com/r-oli-m)🐷
 - [@aanvi145](https://github.com/aanvi145)
