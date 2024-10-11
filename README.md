@@ -53,6 +53,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@revaga](https://github.com/revaga)
 - [@shubhanshi1125](https://github.com/shubhanshi1125)
 - [@korbexmachina](https://github.com/korbexmachina)
+- [@citai](https://github.com/citai)
 - [@SchrodingerWaves](https://github.com/SchrodingerWaves)
 
 ### Useful Links
