@@ -13,6 +13,7 @@
 
 ### Roll call! Who's here?
 _Add your GitHub handle, and link it to your profile!_
+- [@lucyqgong]((https://github.com/lucyqgong)) 🔥
 - [@emmet0r](https://github.com/emmet0r) ⚡
 
 ### Useful Links
@@ -21,3 +22,5 @@ _Add your GitHub handle, and link it to your profile!_
 - [UC Santa Cruz Open Source Program Office](https://ucsc-ospo.github.io)
 - [UCSC Girls Who Code](https://ucsc-gwc.club/)
 - [Emily on LinkedIn!](https://www.linkedin.com/in/emilymarielovell/)
+
+
