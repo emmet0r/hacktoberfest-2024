@@ -13,8 +13,12 @@
 7. [Explore potential projects to contribute to!](https://github.com/topics/hacktoberfest) 💖
 
 ### Roll call! Who's here?
+
 _Add your GitHub handle, and link it to your profile!_
 
+
+- [joeyhuangg](https://github.com/joeyhuangg)
+- [@emmet0r](https://github.com/emmet0r) ⚡
 - [@alexisescuadro](https://github.com/alexisescuadro) 🌺
 - [@isschrack](https://github.com/isschrack) ⚡
 - [@lucyqgong](https://github.com/lucyqgong) 🔥
