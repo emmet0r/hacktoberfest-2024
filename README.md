@@ -15,6 +15,7 @@
 _Add your GitHub handle, and link it to your profile!_
 - [@lucyqgong](https://github.com/lucyqgong) 🔥
 - [@emmet0r](https://github.com/emmet0r) ⚡
+- [@arushi165](https://github.com/arushi165) 
 - [@GirishAdithi](https://github.com/GirishAdithi) 
 - [@christngu](https://github.com/christngu)
 - [@srutidondapati](https://github.com/srutidondapati)
