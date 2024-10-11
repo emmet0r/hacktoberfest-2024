@@ -19,6 +19,7 @@ _Add your GitHub handle, and link it to your profile!_
 
 - [joeyhuangg](https://github.com/joeyhuangg)
 - [@emmet0r](https://github.com/emmet0r) ⚡
+- [@Mruthula05](https://github.com/Mruthula05)
 - [@kitroseink](https://github.com/kitroseink)
 - [@alexisescuadro](https://github.com/alexisescuadro) 🌺
 - [@isschrack](https://github.com/isschrack) ⚡
