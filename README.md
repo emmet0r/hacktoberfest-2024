@@ -28,7 +28,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@jolenewei] (https://github.com/jolenewei) 
 - [@sskolach](https://github.com/sskolach)
 - [@djhawar](https://github.com/dishitaj)
-- @ssiguachi](https://github.com/ssiguachi) 💕
+- [@ssiguachi](https://github.com/ssiguachi) 💕
 - [@ireed3282](https://github.com/ireed3282) 
 - [@ironspidr](https://github.com/Ironspidr/) 
 - [@Asterix522](https://github.com/Asterix522) 💃
@@ -45,7 +45,6 @@ _Add your GitHub handle, and link it to your profile!_
 - [@teahibiscus](https://github.com/teahibiscus) :D
 - [@smrghsh](https://github.com/smrghsh) 🐒
 - [@suaviloquence](https://github.com/suaviloquence)
-- [@jasminetai](https://github.com/jasminetai)
 - [@andmorales12](https://github.com/andmorales12)
 - [@syergash](https://github.com/syergash)
 - [@sarahwxie](https://github.com/sarahwxie)
