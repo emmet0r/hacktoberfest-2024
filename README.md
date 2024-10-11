@@ -28,7 +28,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@psharm40](https://github.com/psharm40)
 - [@baccataco](https://github.com/baccataco) 😾
 - [@ssiguachi](https://github.com/ssiguachi)
-- [@jolenewei] (https://github.com/jolenewei) 
+- [@jolenewei](https://github.com/jolenewei) 
 - [@sskolach](https://github.com/sskolach)
 - [@djhawar](https://github.com/dishitaj)
 - [@ssiguachi](https://github.com/ssiguachi) 💕
