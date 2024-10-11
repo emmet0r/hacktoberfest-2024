@@ -15,7 +15,7 @@
 ### Roll call! Who's here?
 
 _Add your GitHub handle, and link it to your profile!_
-
+- [@sindhuraappiah](https://github.com/sindhuraappiah) ⚡
 - [@Swasti-Srivastava](https://github.com/Swasti-Srivastava) ⚡
 - [joeyhuangg](https://github.com/joeyhuangg)
 - [@emmet0r](https://github.com/emmet0r) ⚡
@@ -48,6 +48,7 @@ _Add your GitHub handle, and link it to your profile!_
 - [@teahibiscus](https://github.com/teahibiscus) :D
 - [@smrghsh](https://github.com/smrghsh) 🐒
 - [@suaviloquence](https://github.com/suaviloquence)
+- [@cheryl-chuang](https://github.com/cheryl-chuang)
 - [@aheliban](https://github.com/aheliban)
 - [@zeakJZ](https://github.com/zeakJZ)
 - [@pkflash](https://github.com/pkflash) ( ͡° ͜ʖ ͡°)
@@ -62,7 +63,9 @@ _Add your GitHub handle, and link it to your profile!_
 - [@citai](https://github.com/citai)
 - [@SchrodingerWaves](https://github.com/SchrodingerWaves)
 - [@mariannejchuang](https://github.com/mariannejchuang)
-
+- [@rospul11](https://github.com/rospul11)
+- [@avysinger](https://github.com/avysinger)
+  
 ### Useful Links
 
 - [Open Source Basics [Video]](https://www.youtube.com/watch?v=upxUAI-fAtE)
